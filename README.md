@@ -57,21 +57,6 @@ NEXTAUTH_SECRET=your_secret_key
 NEXTAUTH_URL=http://localhost:3000
 ```
 
----
-
-## 📁 Project Structure
-
-```
-/app
-/components
-/lib
-/models
-/pages
-/public
-/styles
-```
-
----
 
 ## 📌 Future Improvements
 
